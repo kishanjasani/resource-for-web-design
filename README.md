@@ -127,3 +127,11 @@ https://dribbble.com/victorerixon
 https://dribbble.com/benske  
 https://dribbble.com/peterfinlan  
 https://dribbble.com/Radium
+
+##EVEN MORE RESOURCES  
+
+### Huge list of front-­‐end development resources:
+https://github.com/dypsilon/frontend‐dev‐bookmarks
+
+### Curated resources for everything creative:
+http://oozled.com/
