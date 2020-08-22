@@ -65,3 +65,21 @@ http://mazwai.com/
 
 ### Techniques for working with images in CSS:
 http://css-­‐tricks.com/design-­‐considera.ons-­‐text-­‐images/
+
+
+## WORKING  WITH  ICONS
+
+### Beau.ful icon font:  
+http://ionicons.com/  
+
+### Another beau.ful icon set:  
+http://entypo.com/
+
+### Font awesome icons:  
+http://fontawesome.io/icons/
+
+### Big collec.on of SVG fonts:  
+http://iconmonstr.com/
+
+### Yet another icon font:  
+http://icon-­‐works.com/
