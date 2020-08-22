@@ -34,3 +34,34 @@ http://prac.caltypography.com/typography-­‐in-­‐ten-­‐minutes.html
 
 ### learn even more about typography:  
 http://www.typogui.de/
+
+
+## WORKING WITH IMAGES
+---
+
+### Basically all free images in one place:  
+http://thestocks.im/  
+
+### Images from many sources:  
+http://www.pexels.com/
+
+### Unsplash, a must see:  
+https://unsplash.com/
+
+### Food images:  
+http://foodiesfeed.com/
+
+### A curated collec.on of free resources:  
+http://www.imcreator.com/free
+
+### Huge pattern library:  
+http://thepatternlibrary.com/
+
+### Subtle patterns:  
+http://subtlepatterns.com/  
+
+### Free videos:  
+http://mazwai.com/  
+
+### Techniques for working with images in CSS:
+http://css-­‐tricks.com/design-­‐considera.ons-­‐text-­‐images/
