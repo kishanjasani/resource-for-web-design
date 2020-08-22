@@ -92,3 +92,38 @@ http://thehipperelement.com/post/75476711614/ux-­‐crash-­‐course-­‐31-�
 
 ### UI tricks that can lead to higher conversion rates:  
 http://www.goodui.org/
+
+## GETTING  INSPIRED
+
+### Find beautiful websites:  
+http://www.siteinspire.com/
+
+### Dribble, show and tell for designers:  
+https://dribbble.com/
+
+### Behance:  
+https://www.behance.net/
+
+### Inspiraton for one-­‐page websites:  
+https://onepagelove.com
+
+### Even more webdesign inspiration:  
+http://www.admiretheweb.com/
+
+### Flat design inspiration:  
+http://flatdsgn.com/
+
+### Collection of specific design elements and patterns:  
+http://patterntap.com/
+
+### Another collection of design elements:  
+http://calltoidea.com/
+
+### Google fonts inspiration:  
+http://femmebot.github.io/google-­‐type/
+
+### Some amazing designers on Dribble:  
+https://dribbble.com/victorerixon  
+https://dribbble.com/benske  
+https://dribbble.com/peterfinlan  
+https://dribbble.com/Radium
